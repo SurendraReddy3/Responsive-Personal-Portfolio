@@ -442,7 +442,7 @@ footer a:hover {
         max-width: 300px; /* Adjusted max width */
         border-radius: 50%; /* Make it circular */
         margin-bottom: 20px; /* Space between image and links */
-        box-shadow: 0 0 10px rgba(236, 236, 236, 0.958);
+        box-shadow: 0 0 30px white;
         transition: transform 0.8s, box-shadow 0.3s;
     }
 
