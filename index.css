@@ -697,7 +697,7 @@ footer a:hover {
         max-width: 250px; /* Adjusted max width */
         border-radius: 50%; /* Make it circular */
         margin-bottom: 15px; /* Space between image and links */
-        box-shadow: 0 0 10px rgba(194, 11, 175, 0.896);
+        box-shadow: 0 0 30px white;
         transition: transform 0.8s, box-shadow 0.3s;
     }
 
