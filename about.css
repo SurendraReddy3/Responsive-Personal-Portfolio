@@ -134,6 +134,7 @@
         margin-bottom: 50px;
         border-radius: 10px; /* Rounded corners */
         margin-left: 60px;
+        box-shadow: 0 0 30px white;
     }
 
     .info-card {
