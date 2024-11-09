@@ -399,6 +399,7 @@
             cursor: pointer; /* Change cursor to pointer */
             text-align: center; /* Center text in the button */
             font-weight: bold;
+            box-shadow: 0 0 20px red;
         }
 
         footer {
@@ -599,6 +600,7 @@
         cursor: pointer; /* Change cursor to pointer */
         text-align: center; /* Center text in the button */
         font-weight: bold;
+        box-shadow: 0 0 20px red;
     }
 
     footer {
