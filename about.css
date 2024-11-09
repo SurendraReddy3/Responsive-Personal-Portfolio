@@ -143,7 +143,7 @@
         left: 230px;
         background-color: red;
         color: white;
-        width: 75%;
+        width: 83%;
         box-sizing: border-box;
         text-align: left;
         border-radius: 10px;
@@ -353,6 +353,7 @@
             z-index: 0;
             max-height: 290px;
             overflow: auto;
+            font-size: 0.8em;
         }
     
         .about-me {
@@ -554,6 +555,7 @@
         z-index: 0;
         max-height: 300px;
         overflow: auto;
+        font-size: 0.8em;
     }
 
     .about-me {
